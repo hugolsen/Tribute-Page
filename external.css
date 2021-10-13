@@ -1,0 +1,23 @@
+body{
+	background-color: skyblue;
+}
+
+.picture img{
+	width: 405px;
+	height: 305px;
+	margin-left: 500px;
+}
+
+.header{
+	margin-left: 515px;
+}
+
+.list{
+	margin-left: 490px;
+}
+
+.dolby img{
+	width: 750px;
+	height: 750px;
+	margin-left: 325px;
+}
